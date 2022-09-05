@@ -4,3 +4,7 @@ INSERT INTO price (currency, price, id) VALUES ('INR', 134560, 3);
 INSERT INTO price (currency, price, id) VALUES ('INR', 99009, 4);
 INSERT INTO price (currency, price, id) VALUES ('INR', 100000, 5);
 INSERT INTO price (currency, price, id) VALUES ('INR', 80000, 6);
+INSERT INTO price (currency, price, id) VALUES ('INR', 70000, 7);
+INSERT INTO price (currency, price, id) VALUES ('INR', 60000, 8);
+INSERT INTO price (currency, price, id) VALUES ('INR', 50000, 9);
+INSERT INTO price (currency, price, id) VALUES ('INR', 40000, 10);
